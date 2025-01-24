@@ -187,5 +187,5 @@ CORS_ALLOW_ALL_ORIGINS = True
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 CSRF_TRUSTED_ORIGINS = [
-    "https://saleways-321.up.railway.app/",
+    "https://saleways-321.up.railway.app",
     "http://localhost:5173/",]
