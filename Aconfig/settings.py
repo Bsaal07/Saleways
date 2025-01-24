@@ -30,7 +30,7 @@ DEBUG = config("DEBUG", default=True, cast=bool)
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["Aconfig-321.up.railway.app", "127.0.0.1"]
+ALLOWED_HOSTS = ["127.0.0.1", "saleways-321.up.railway.app"]
 
 
 # Application definition
